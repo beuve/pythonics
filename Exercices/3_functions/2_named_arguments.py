@@ -1,0 +1,25 @@
+"""
+# Arguments par défaut
+
+Il est possible de définir des valeurs par défaut au arguments d'une fonction.
+Il est également possible de nomer les atributs lors de l'appelle d'une fonction.
+Cela permet de changer l'ordre des attributs, mais également de ne spécifier que 
+quelques valeurs, quelque soit l'ordre des attributs dans la définition de la fonction,
+laissant les autres à leur valeur par défaut.
+
+Modifiez `f` jusqu'à ne plus avoir d'erreur. Dans chaque assert, seulement une
+des 3 valeurs change. Il est donc possible avec des valeurs par défaut judicieusement
+choisis de ne spécifier qu'une valeur par appele de fonction. 
+
+[Syntax: function definition](https://docs.python.org/3.10/reference/compound_stmts.html#function-definitions)
+[Doc: Default argument](https://docs.python.org/fr/3.13/tutorial/controlflow.html#default-argument-values)
+[Doc: Named argument](https://docs.python.org/fr/3.13/tutorial/controlflow.html#keyword-arguments)
+"""
+
+# TODO
+def f():
+  ...
+
+assert f() == {"a":2, "b": 2, "c":3}
+assert f() == {"a":1, "b": 0, "c":3}
+assert f() == {"a":1, "b": 2, "c":1}
