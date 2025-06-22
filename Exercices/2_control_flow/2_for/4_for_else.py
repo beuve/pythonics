@@ -15,7 +15,7 @@ Dans notre cas, initialiser `b` à -1 aurait le même effet que de changer sa va
 avec un `else`. Le mieux serait de lever une exception indiquant que la valeur 
 n'a pas été trouvée, ce qui demanderait plus d'efforts sans le `else`.
 
-[Syntax: while](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement)
+[Syntax: for](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement)
 [Doc: else in loops](https://docs.python.org/3/tutorial/controlflow.html#else-clauses-on-loops)
 """
 

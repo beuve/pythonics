@@ -7,8 +7,9 @@ O(n) pour les lists non triées).
 
 Effectuez les actions spécifiés après chacun des TODO.
 
-[Doc: Time complexity](https://wiki.python.org/moin/TimeComplexity)
+[Syntax: sets](https://docs.python.org/3/reference/expressions.html#set-displays)
 [Doc: set](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
+[Doc: Time complexity](https://wiki.python.org/moin/TimeComplexity)
 """
 
 s = set()                      # Do not touch!

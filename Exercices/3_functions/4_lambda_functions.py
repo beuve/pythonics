@@ -14,13 +14,13 @@ Dans cet exercice, on utilise des lambdas pour :
 - filtrer les éléments selon une condition (`filter`)  
 - réduire une liste à une seule valeur via un accumulateur (`reduce`).
 
-Modifiez `f` jusqu'à ne plus avoir d'erreur.
+Modifiez les `...` avec des lambdas jusqu'à ne plus avoir d'erreur.
 
 [Syntax: Lambda](https://docs.python.org/3.10/reference/expressions.html#lambda)
 [Doc: lambda expressions](https://docs.python.org/3.13/tutorial/controlflow.html#lambda-expressions)
 [Doc: map](https://docs.python.org/3/library/functions.html#map)
 [Doc: filter](https://docs.python.org/3/library/functions.html#filter)
-[Doc: filter](https://docs.python.org/fr/3.13/library/functools.html#functools.reduce)
+[Doc: reduce](https://docs.python.org/fr/3.13/library/functools.html#functools.reduce)
 """
 
 # Do not touch!

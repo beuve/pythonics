@@ -1,7 +1,7 @@
 """
 # Collections
 
-Une collection est un objet regroupant plusieurs autres ojets. La collection la plus
+Une collection est un objet regroupant plusieurs autres objets. La collection la plus
 connue est la `liste`, mais python intègre également d'autres collections que nous allons
 détailler dans les prochains exercices.
 
@@ -24,11 +24,11 @@ d = ...
 assert isinstance(a, list)
 assert len(a) == 1
 
-assert isinstance(a, tuple)
-assert len(a) == 2
+assert isinstance(b, tuple)
+assert len(b) == 2
 
-assert isinstance(a, dict)
-assert len(a) == 3
+assert isinstance(c, dict)
+assert len(c) == 3
 
-assert isinstance(a, set)
-assert len(a) == 4
+assert isinstance(d, set)
+assert len(d) == 4

@@ -1,7 +1,7 @@
 """
 # Fonctions
 
-Les fonctions en python sont définie avec le mot clé `def`.
+Les fonctions en python sont définie avec le mot clé `def`
 
 Modifiez `f` jusqu'à ne plus avoir d'erreur.
 

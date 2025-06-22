@@ -13,7 +13,7 @@ sont très similaire aux switches de `C`, mais offres plus de possibilités (les
 Modifiez les valeurs de `a`, `b` et `c` jusqu'à ne plus avoir d'erreur.
 
 [Syntax: Match statement](https://docs.python.org/3.10/reference/compound_stmts.html#the-match-statement)
-[Doc: numeric types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+[Doc: Match statement](https://docs.python.org/3/tutorial/controlflow.html#match-statements)
 [Wiki: Filtrage par motif](https://fr.wikipedia.org/wiki/Filtrage_par_motif)
 """
 

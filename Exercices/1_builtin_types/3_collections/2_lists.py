@@ -12,8 +12,9 @@ de rare cas l'insertion peut prendre plus de temps.
 
 Effectuez les actions spécifiés après chacun des TODO.
 
+[Syntax: lists](https://docs.python.org/3/reference/expressions.html#list-displays)
+[Doc: lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 [Doc: Time complexity](https://wiki.python.org/moin/TimeComplexity)
-[Doc: Boolean operators](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
 """
 
 a = []                       # Do not touch!

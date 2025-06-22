@@ -6,8 +6,9 @@ des valeurs. La recherche d'un élément étant donné sa clé est en O(1).
 
 Effectuez les actions spécifiés après chacun des TODO.
 
-[Doc: Time complexity](https://wiki.python.org/moin/TimeComplexity)
+[Syntax: dict](https://docs.python.org/3/reference/expressions.html#dictionary-displays)
 [Doc: dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)  
+[Doc: Time complexity](https://wiki.python.org/moin/TimeComplexity)
 """
 
 d = {}                         # Do not touch!

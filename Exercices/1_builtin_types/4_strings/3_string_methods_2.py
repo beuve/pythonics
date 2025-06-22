@@ -15,8 +15,8 @@ sont vraies).
 a = "Hello"
 
 # TODO
-assert a       # a starts with 'Hel'
-assert a       # a doesn't end with 'thon'
-assert a       # a contains 'll'
-assert a       # a is composed of letters
-assert a       # a is not numerical
+assert not a       # a starts with 'Hel'
+assert not a       # a doesn't end with 'thon'
+assert not a       # a contains 'll'
+assert not a       # a is composed of letters
+assert not a       # a is not numerical

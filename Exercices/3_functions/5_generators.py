@@ -16,7 +16,8 @@ Les générateurs sont très utiles pour :
 - simplifier la génération de suites complexes.
 
 Dans cet exercice, selon le booléen passé en paramètre, le générateur produit
-différentes chaînes de caractères après un entier.
+d'abord toujours le même entier, puis une chaînes de caractères dont la valeur 
+dépend du booléen.
 
 [Syntax: Yield](https://docs.python.org/3.10/reference/expressions.html#yield-expressions)
 [Doc: Generators](https://wiki.python.org/moin/Generators)

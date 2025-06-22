@@ -13,7 +13,6 @@ comme :
 - le logging  
 - la gestion des droits d’accès  
 - la mesure de performance  
-- la mémorisation (caching).
 
 Dans cet exercice, vous devez écrire un décorateur qui modifie le résultat
 de la fonction décorée en l’augmentant de 1.

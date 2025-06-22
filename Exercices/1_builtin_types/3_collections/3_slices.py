@@ -7,6 +7,7 @@ slices sont des copies, et donc modifier la liste d'origine ne modifie pas les s
 
 Effectuez les actions spécifiés après chacun des TODO.
 
+[Syntax: slicings](https://docs.python.org/3/reference/expressions.html#slicings)
 [Doc: Opérations sur les séquences](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
 """
 

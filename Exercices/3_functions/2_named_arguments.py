@@ -20,6 +20,6 @@ choisis de ne spécifier qu'une valeur par appele de fonction.
 def f():
   ...
 
-assert f() == {"a":2, "b": 2, "c":3}
+assert f()  == {"a":2, "b": 2, "c":3}
 assert f() == {"a":1, "b": 0, "c":3}
 assert f() == {"a":1, "b": 2, "c":1}

@@ -7,6 +7,7 @@ la différence majeur est qu'ils sont imutables.
 Effectuez les actions spécifiés après chacun des TODO.
 
 [Doc: Tuples](https://docs.python.org/3/library/stdtypes.html#tuples)
+[Wiki: Variable shadowing](https://en.wikipedia.org/wiki/Variable_shadowing#:~:text=In%20computer%20programming%2C%20variable%20shadowing,is%20known%20as%20name%20masking.)
 """
 
 a = ()                 # Do not touch!
