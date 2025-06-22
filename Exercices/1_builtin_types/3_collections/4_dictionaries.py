@@ -1,10 +1,10 @@
 """
 # Dictionnaires
 
-Les dictionnaires sont des structures de données associant des clés à 
-des valeurs. La recherche d'un élément étant donné sa clé est en O(1).
+Les dictionnaires sont des structures de donnees associant des cles a 
+des valeurs. La recherche d'un element etant donne sa cle est en O(1).
 
-Effectuez les actions spécifiés après chacun des TODO.
+Effectuez les actions specifies apres chacun des TODO.
 
 [Syntax: dict](https://docs.python.org/3/reference/expressions.html#dictionary-displays)
 [Doc: dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)  

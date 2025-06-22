@@ -1,12 +1,12 @@
 """
 # Casting des variables
 
-Modifiez les valeurs de `a`, `b` et `c` jusqu'à ne plus avoir d'erreur.
-Les valeurs de `a`, `b` et `c` peuvent être déduites des résultats des opérations.
+Modifiez les valeurs de `a`, `b` et `c` jusqu'a ne plus avoir d'erreur.
+Les valeurs de `a`, `b` et `c` peuvent être deduites des resultats des operations.
 
-`b` ne devrait pas être définie en utilisant un litteral (e.g., b = 2), mais en utilisant
-une fonction pour caster la valeur de `a` dans le type demandé. De façon similaire, `c`
-doit être définie en utilisant une fonction pour caster la valeur de `a`.
+`b` ne devrait pas être definie en utilisant un litteral (e.g., b = 2), mais en utilisant
+une fonction pour caster la valeur de `a` dans le type demande. De façon similaire, `c`
+doit être definie en utilisant une fonction pour caster la valeur de `a`.
 
 [Python doc](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
 """

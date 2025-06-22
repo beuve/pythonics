@@ -1,17 +1,17 @@
 """
-# Expressions booléennes
+# Expressions booleennes
 
-Python intègre des type booléen, mais ceux-ci ne sont pas nécessaires pour les conditions
+Python integre des type booleen, mais ceux-ci ne sont pas necessaires pour les conditions
 des `if` ainsi que les boucles `while`. 
 
-Les booléen `True` et `False` sont de types `bool`, qui est lui même un sous-type de `int`. 
-Les booléens étant des entiers, ils doivent en avoir le comportement et donc ils peuvent être
-additionné. Dans ces cas, `True` vaut `1` et `False` vaut `0`.
+Les booleen `True` et `False` sont de types `bool`, qui est lui même un sous-type de `int`. 
+Les booleens etant des entiers, ils doivent en avoir le comportement et donc ils peuvent être
+additionne. Dans ces cas, `True` vaut `1` et `False` vaut `0`.
 
-Modifiez les valeurs de `a`, `b` et `c` jusqu'à ne plus avoir d'erreur.
+Modifiez les valeurs de `a`, `b` et `c` jusqu'a ne plus avoir d'erreur.
 Edit the values of a, b, and c such that each assert passes.
 
-[Doc: opérateurs Booléen](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+[Doc: operateurs Booleen](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
 """
 
 # TODO

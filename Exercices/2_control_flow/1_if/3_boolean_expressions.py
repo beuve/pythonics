@@ -1,22 +1,22 @@
 """
 # Comparaisons
 
-Python fourni des opérateurs de comparaisons de valeurs. 
+Python fourni des operateurs de comparaisons de valeurs. 
 Il en existe 4 types : 
 
-- Les relations d'ordre (Superieur ou égal, inférieur ou égal)
-- Les relations d'ordre stricts (Superieur, inférieur)
-- Les relation d'égalité  (Egal, différent)
-- Les relation d'identité (Est le même, n'est pas le même)
+- Les relations d'ordre (Superieur ou egal, inferieur ou egal)
+- Les relations d'ordre stricts (Superieur, inferieur)
+- Les relation d'egalite  (Egal, different)
+- Les relation d'identite (Est le même, n'est pas le même)
 
-Ces différentes comparaisons fonctionnent sur la pluspart des types primitifs de python
+Ces differentes comparaisons fonctionnent sur la pluspart des types primitifs de python
 (pas tous : Les relations d'ordre ne fonctionnent pas sur les complexes). Pour les collections
-comme les str ou les lists, l'_ordre lexicographique_ est utilisé.
+comme les str ou les lists, l'_ordre lexicographique_ est utilise.
 
-Les relations d'identité ont été vu dans un exercice précédent, dans cette exercice 
+Les relations d'identite ont ete vu dans un exercice precedent, dans cette exercice 
 les trois autres seront vu.
 
-Modifiez les opérateurs `@` (en respectant les commentaires) jusqu'à ne plus avoir d'erreur.
+Modifiez les operateurs `@` (en respectant les commentaires) jusqu'a ne plus avoir d'erreur.
 
 [Syntax: Comparisons](https://docs.python.org/3/reference/expressions.html#comparisons)
 [Doc: Comparisons](https://docs.python.org/3/library/stdtypes.html#comparisons)

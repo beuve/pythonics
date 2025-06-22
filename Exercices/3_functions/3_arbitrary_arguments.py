@@ -1,15 +1,15 @@
 """
 # Nombre d'arguments arbitraires
 
-En Python, une fonction peut être définie pour accepter un nombre variable
-d'arguments positionnels grâce à la syntaxe `*args`. Ce paramètre spécial
-regroupe tous les arguments supplémentaires passés lors de l'appel dans un tuple.
+En Python, une fonction peut être definie pour accepter un nombre variable
+d'arguments positionnels grâce a la syntaxe `*args`. Ce parametre special
+regroupe tous les arguments supplementaires passes lors de l'appel dans un tuple.
 
-Cela permet d'écrire des fonctions flexibles capables de traiter un nombre
-d’arguments inconnu à l'avance, sans lever d’erreur, et sans devoir définir
+Cela permet d'ecrire des fonctions flexibles capables de traiter un nombre
+d’arguments inconnu a l'avance, sans lever d’erreur, et sans devoir definir
 plusieurs signatures.
 
-Modifiez `f` jusqu'à ne plus avoir d'erreur.
+Modifiez `f` jusqu'a ne plus avoir d'erreur.
 
 [Syntax: Function definition](https://docs.python.org/3.10/reference/compound_stmts.html#function-definitions)
 [Doc: arbitrary argument lists](https://docs.python.org/3.13/tutorial/controlflow.html#arbitrary-argument-lists)

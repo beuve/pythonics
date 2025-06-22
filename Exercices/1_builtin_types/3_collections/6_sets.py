@@ -1,11 +1,11 @@
 """
 # Sets
 
-Un set est un collection d'éléments qui ne retiens pas l'ordre d'insertion,
-mais pour lequel la recherche d'un élément est en O(1) (contrairement à
-O(n) pour les lists non triées). 
+Un set est un collection d'elements qui ne retiens pas l'ordre d'insertion,
+mais pour lequel la recherche d'un element est en O(1) (contrairement a
+O(n) pour les lists non triees). 
 
-Effectuez les actions spécifiés après chacun des TODO.
+Effectuez les actions specifies apres chacun des TODO.
 
 [Syntax: sets](https://docs.python.org/3/reference/expressions.html#set-displays)
 [Doc: set](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)

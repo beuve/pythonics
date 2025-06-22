@@ -1,14 +1,14 @@
 """
-# Opérateurs sur les chaines de charactères
+# Operateurs sur les chaines de characteres
 
-Certains opérateurs permettent de verifier la composition d'une chaine 
-de charactères. 
+Certains operateurs permettent de verifier la composition d'une chaine 
+de characteres. 
 
-L'objectif est, pour chaque `assert`, d'appeler une méthode sur `a` afin 
+L'objectif est, pour chaque `assert`, d'appeler une methode sur `a` afin 
 de verifier la condition en commentaire (toute les conditions en commentaires
 sont vraies). 
 
-[Doc: liste des méthodes de strings](https://docs.python.org/3/library/stdtypes.html#string-methods)
+[Doc: liste des methodes de strings](https://docs.python.org/3/library/stdtypes.html#string-methods)
 """
 
 # Do not touch!

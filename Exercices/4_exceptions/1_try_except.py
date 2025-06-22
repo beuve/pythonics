@@ -1,14 +1,14 @@
 """
 # `try` - `except`
 
-Comme beaucoup d'autres languages, python utilise un [système de gestion des exceptions](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_d%27exceptions)
-pour gérer les erreurs. Le principe de fonctionnement est simple: Lorsque une exception
-est levée, python remonte la chaine d'appèle afin de trouver une instruction `except`
-gerant cette erreur. Si aucune instruction de ce genre n'est trouvé, le programme 
-s'arrète.
+Comme beaucoup d'autres languages, python utilise un [systeme de gestion des exceptions](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_d%27exceptions)
+pour gerer les erreurs. Le principe de fonctionnement est simple: Lorsque une exception
+est levee, python remonte la chaine d'appele afin de trouver une instruction `except`
+gerant cette erreur. Si aucune instruction de ce genre n'est trouve, le programme 
+s'arrete.
 
-Dans cet example, l'objectif est de faire la somme des éléments de `a` divisés
-par les éléments de `b`. Cependant, un des élément de `b` est 0 est cause donc 
+Dans cet example, l'objectif est de faire la somme des elements de `a` divises
+par les elements de `b`. Cependant, un des element de `b` est 0 est cause donc 
 une erreur. Nous souhaitons compter les divisions par 0 comme des divisions par
 1 pour eviter l'erreur.
 

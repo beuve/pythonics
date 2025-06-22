@@ -1,13 +1,13 @@
 """
 # `raise`
 
-Il est possible de lever des exception manuellement dans les fonctionalités
-que l'on implémente. Pour cela, le mot clés `raise` est utilisé.
+Il est possible de lever des exception manuellement dans les fonctionalites
+que l'on implemente. Pour cela, le mot cles `raise` est utilise.
 
 L'objectif de cet exercice est de refaire l'exercice `for else` en utilisant
 des exceptions.
 
-La fonction find permet de trouver l'indice de la première occurence de
+La fonction find permet de trouver l'indice de la premiere occurence de
 `value` dans `list`. Si cette valeur n'existe pas, find doit lever une
 exception de type `IndexError`.
 

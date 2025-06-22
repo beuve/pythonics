@@ -1,11 +1,11 @@
 """
-# Opérateurs sur les chaines de charactères
+# Operateurs sur les chaines de characteres
 
-L'objectif de cet exercice est découvrire les opérateurs sur les `strings`. 
+L'objectif de cet exercice est decouvrire les operateurs sur les `strings`. 
 
-Pour chaque `assert`, appelez une méthode sur `a` afin d'obtenir le résultat attendu. 
+Pour chaque `assert`, appelez une methode sur `a` afin d'obtenir le resultat attendu. 
 
-[Doc: liste des méthodes de strings](https://docs.python.org/3/library/stdtypes.html#string-methods)
+[Doc: liste des methodes de strings](https://docs.python.org/3/library/stdtypes.html#string-methods)
 """
 
 # Do not touch!

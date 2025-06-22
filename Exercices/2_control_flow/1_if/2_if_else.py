@@ -2,7 +2,7 @@
 # If / Else
 
 Le commentaire `Values: [...]` donne l'ensemble des valeurs possibles de `b`. L'objectif
-est de remplacer chaque `...` de façon à ce que chaque `assert` passe. Pour valider
+est de remplacer chaque `...` de façon a ce que chaque `assert` passe. Pour valider
 l'exercice, essayez l'ensemble des valeurs de `b`.
 
 [Syntax: If statement](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement)

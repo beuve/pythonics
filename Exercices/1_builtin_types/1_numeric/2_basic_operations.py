@@ -1,13 +1,13 @@
 """
-# Opérations sur les nombres
+# Operations sur les nombres
 
-L'objectif de cet exercice est découvrire les opérateurs mathématiques sur les nombres. 
-Les valeurs de `a` et `b` peuvent être déduites des résultats des opérations.
+L'objectif de cet exercice est decouvrire les operateurs mathematiques sur les nombres. 
+Les valeurs de `a` et `b` peuvent être deduites des resultats des operations.
 
-Modifiez les valeurs de `a` et `b`, ainsi que les opérateurs `@` (en respectant les commentaires)
- jusqu'à ne plus avoir d'erreur.
+Modifiez les valeurs de `a` et `b`, ainsi que les operateurs `@` (en respectant les commentaires)
+ jusqu'a ne plus avoir d'erreur.
 
-[Doc: Opérateurs numériques](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+[Doc: Operateurs numeriques](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
 """
 
 a = ...

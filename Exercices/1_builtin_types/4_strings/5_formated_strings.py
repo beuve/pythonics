@@ -1,10 +1,10 @@
 """
-# Chaines formatées
+# Chaines formatees
 
-Il est souvant necessaire de créer des chaines de charactères comportant des 
+Il est souvant necessaire de creer des chaines de characteres comportant des 
 valeurs de variables. Cela est possible en python en utilisant des f-string.
 
-Completez chaque `assert` de façon à obtenir le résultat attendu.
+Completez chaque `assert` de façon a obtenir le resultat attendu.
 
 [Doc: f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 """

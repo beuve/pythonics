@@ -1,15 +1,15 @@
 """
-# Types numériques
+# Types numeriques
 
-Python utilise 3 types numériques différents : `int`, `float`, et `complex`.
+Python utilise 3 types numeriques differents : `int`, `float`, et `complex`.
 
-Ces types sont immuables, ce qui signifie que les opérateurs ne modifient 
-pas les valeurs des variables, mais plutôt les créer de nouvelles.
+Ces types sont immuables, ce qui signifie que les operateurs ne modifient 
+pas les valeurs des variables, mais plutôt les creer de nouvelles.
 
-Modifiez les valeurs de `a` et `b`, ainsi que l'opérateur `@` (en respectant 
-les commentaires) jusqu'à ne plus avoir d'erreur.
+Modifiez les valeurs de `a` et `b`, ainsi que l'operateur `@` (en respectant 
+les commentaires) jusqu'a ne plus avoir d'erreur.
 
-[Doc: Types numériques](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+[Doc: Types numeriques](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
 """
 
 # TODO

@@ -1,16 +1,16 @@
 """
-# Problème de logique
+# Probleme de logique
 
-Cet exercice est simplement un problème de logique dans lequel une seule valeur est
+Cet exercice est simplement un probleme de logique dans lequel une seule valeur est
 possible pour `a`, `b` et `c` de façon a ce qu'aucun assert ne renvoi d'erreur.
 
 Il existe 8 combinaison possibles pour `a`, `b` et `c`, ainsi un brut force est possible 
-pour cet exercice. Néenmoins vous êtes encouragé à reflechir et ne pas tester toutes les 
+pour cet exercice. Neenmoins vous êtes encourage a reflechir et ne pas tester toutes les 
 combinaisons possibles.
 
-Modifiez les valeurs de `a`, `b` et `c` jusqu'à ne plus avoir d'erreur.
+Modifiez les valeurs de `a`, `b` et `c` jusqu'a ne plus avoir d'erreur.
 
-[Doc: Opérateurs booléens](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+[Doc: Operateurs booleens](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
 """
 
 # TODO

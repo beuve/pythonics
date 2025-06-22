@@ -1,11 +1,11 @@
 """
-# Différence entre `==` et `is`
+# Difference entre `==` et `is`
 
-- `==` vérifie si deux objets ont la même **valeur**.  
-- `is` vérifie si deux objets sont **la même instance** en mémoire.
+- `==` verifie si deux objets ont la même **valeur**.  
+- `is` verifie si deux objets sont **la même instance** en memoire.
 
-Complétez ou modifiez le code ci-dessous pour que tous les `assert` passent,
-en tenant compte de cette différence.
+Completez ou modifiez le code ci-dessous pour que tous les `assert` passent,
+en tenant compte de cette difference.
 
 [Syntax: comparisons](https://docs.python.org/3/reference/expressions.html#comparisons)
 """

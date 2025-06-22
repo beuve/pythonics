@@ -1,16 +1,16 @@
 """
 # Lists
 
-Une liste est une collection qui stock les élements de façon ordonnée. 
-Dans python, il n'y a par défaut pas de file ou de pile, les `list` sont utilisé
+Une liste est une collection qui stock les elements de façon ordonnee. 
+Dans python, il n'y a par defaut pas de file ou de pile, les `list` sont utilise
 comme tableau, pile ou file.
 
-En python, les lists sont implémentées avec des tableaux dynamiques. L'avantage 
-par rapport à des lists chainées sont: l'accessibilité et la modification des éléments
-en O(1). Cependant, un inconvénient est l'insertion en O(1) *amorti* signifiant que dans
+En python, les lists sont implementees avec des tableaux dynamiques. L'avantage 
+par rapport a des lists chainees sont: l'accessibilite et la modification des elements
+en O(1). Cependant, un inconvenient est l'insertion en O(1) *amorti* signifiant que dans
 de rare cas l'insertion peut prendre plus de temps.
 
-Effectuez les actions spécifiés après chacun des TODO.
+Effectuez les actions specifies apres chacun des TODO.
 
 [Syntax: lists](https://docs.python.org/3/reference/expressions.html#list-displays)
 [Doc: lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)

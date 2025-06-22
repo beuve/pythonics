@@ -2,12 +2,12 @@
 # Collections
 
 Une collection est un objet regroupant plusieurs autres objets. La collection la plus
-connue est la `liste`, mais python intègre également d'autres collections que nous allons
-détailler dans les prochains exercices.
+connue est la `liste`, mais python integre egalement d'autres collections que nous allons
+detailler dans les prochains exercices.
 
-L'objectif ici est d'initialiser des variables avec la taille et le type demandé.
+L'objectif ici est d'initialiser des variables avec la taille et le type demande.
 
-Modifiez les valeurs de `a`, `b`, `c` et `d` jusqu'à ne plus avoir d'erreur.
+Modifiez les valeurs de `a`, `b`, `c` et `d` jusqu'a ne plus avoir d'erreur.
 
 [Doc: Lists et tuples ](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 [Doc: Sets ](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)

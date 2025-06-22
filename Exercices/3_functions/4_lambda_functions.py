@@ -1,20 +1,20 @@
 """
 # Fonctions anonymes
 
-Les fonctions anonymes, appelées aussi fonctions lambda, sont des fonctions
-définies de manière concise sans utiliser le mot-clé `def`. Elles sont particulièrement
-utiles pour écrire des fonctions simples et temporaires, souvent utilisées en
-paramètres d’autres fonctions comme `map`, `filter` ou `reduce`.
+Les fonctions anonymes, appelees aussi fonctions lambda, sont des fonctions
+definies de maniere concise sans utiliser le mot-cle `def`. Elles sont particulierement
+utiles pour ecrire des fonctions simples et temporaires, souvent utilisees en
+parametres d’autres fonctions comme `map`, `filter` ou `reduce`.
 
-Cela permet d'éviter la définition complète d’une fonction classique pour de petites
-opérations, rendant le code plus compact et lisible dans ces cas.
+Cela permet d'eviter la definition complete d’une fonction classique pour de petites
+operations, rendant le code plus compact et lisible dans ces cas.
 
 Dans cet exercice, on utilise des lambdas pour :  
-- transformer chaque élément d’une liste (`map`)  
-- filtrer les éléments selon une condition (`filter`)  
-- réduire une liste à une seule valeur via un accumulateur (`reduce`).
+- transformer chaque element d’une liste (`map`)  
+- filtrer les elements selon une condition (`filter`)  
+- reduire une liste a une seule valeur via un accumulateur (`reduce`).
 
-Modifiez les `...` avec des lambdas jusqu'à ne plus avoir d'erreur.
+Modifiez les `...` avec des lambdas jusqu'a ne plus avoir d'erreur.
 
 [Syntax: Lambda](https://docs.python.org/3.10/reference/expressions.html#lambda)
 [Doc: lambda expressions](https://docs.python.org/3.13/tutorial/controlflow.html#lambda-expressions)

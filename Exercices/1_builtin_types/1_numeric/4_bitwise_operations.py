@@ -1,14 +1,14 @@
 """
 # Bitwise operations
 
-Python intègre également des opérateurs bits à bits. 
+Python integre egalement des operateurs bits a bits. 
 
-Il est également possible de déclarer des nombres en utilisant leur représentation binaries 
-(e.g., `0b10 == 2`) ou hexadécimale (e.g., `0xD == 13`). 
+Il est egalement possible de declarer des nombres en utilisant leur representation binaries 
+(e.g., `0b10 == 2`) ou hexadecimale (e.g., `0xD == 13`). 
 
-Modifiez les valeurs de `a` et `b`, ainsi que les opérateurs `@` (en respectant les commentaires) 
-jusqu'à ne plus avoir d'erreur.
-Vous pouvez utiliser la représentation de votre choix pour initialiser `a` et `b`.
+Modifiez les valeurs de `a` et `b`, ainsi que les operateurs `@` (en respectant les commentaires) 
+jusqu'a ne plus avoir d'erreur.
+Vous pouvez utiliser la representation de votre choix pour initialiser `a` et `b`.
 
 [Wiki: Bitwise operations](https://en.wikipedia.org/wiki/Bitwise_operation)
 [Doc: Bitwise operations](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
