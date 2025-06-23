@@ -5,7 +5,7 @@ Dans un terminal, executez :
 ```bash
 python -m venv venv
 venv\Scripts\activate
-pip install -r requiremenents.txt
+pip install -r requirements.txt
 python pythonics.py
 ```
 
